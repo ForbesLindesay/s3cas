@@ -1,0 +1,20 @@
+{
+  "name": "s3cas",
+  "version": "0.0.0",
+  "description": "Content Addressable Storage on top of Amazon S3",
+  "keywords": [],
+  "dependencies": {
+    "concat-stream": "^1.4.6",
+    "knox": "^0.9.1",
+    "promise": "^6.0.1"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/s3cas.git"
+  },
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}
