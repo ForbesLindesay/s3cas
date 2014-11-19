@@ -1,6 +1,6 @@
 {
   "name": "s3cas",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Content Addressable Storage on top of Amazon S3",
   "keywords": [],
   "dependencies": {
