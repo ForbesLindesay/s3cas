@@ -1,5 +1,7 @@
 # s3cas
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/s3cas.svg)](https://greenkeeper.io/)
+
 Content Addressable Storage on top of Amazon S3
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/s3cas/master.svg)](https://travis-ci.org/ForbesLindesay/s3cas)
